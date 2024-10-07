@@ -34,7 +34,7 @@ headingEl.innerHTML = "All about cats";
 // 2. MODYFIKACJE ELEMENTÓW DRZEWA DOM
 var imageEls = document.getElementsByTagName("img");
 for (var i = 0; i < imageEls.length; i++) {
-    imageEls[i].src = "cat.png";
+    imageEls[i].src = "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png";
 }
 
 headingEl.style.color = "orange";
