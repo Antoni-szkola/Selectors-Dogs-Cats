@@ -1,4 +1,3 @@
-// 1. POBIERANIE ELEMENTÓW DRZEWA DOM
 // a)
 var headingEl = document.getElementById("heading");
 headingEl.innerHTML = "All about cats";
